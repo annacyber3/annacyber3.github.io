@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Anna Hogan
+name: Blah Hogan
 
 # Short bio or description (displayed in the header)
 description: 
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: annacyber3
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/anna-hogan-cyber/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
